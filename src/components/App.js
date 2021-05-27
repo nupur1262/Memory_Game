@@ -199,7 +199,7 @@ checkForMatch = async () => {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <h1 className="d-4">Start Playing!</h1>
+                <h1 className="d-4">Start Playing !!</h1>
 
                 <div className="grid mb-4" >
 
